@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xay:home|Door43 (xay)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xay|d43-xay repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xay/archive/master.zip|d43-xay.zip]]
+
+**Recent Changes**
+{{changes>ns = xay}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xay|Ethnologue data]]
+
